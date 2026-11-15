@@ -1,6 +1,6 @@
-![Тёмный баннер deco9er с мятной сигнальной волной](assets/profile-banner.jpg)
+![DECO9ER на чёрном фоне со светящимися белыми линиями](assets/profile-banner.png)
 
-Пишу Telegram-ботов и инструменты автоматизации на Python. Работаю с API Telegram и Twitch, отслеживаю события и отправляю уведомления через ботов.
+Пишу Telegram-ботов и инструменты автоматизации на Python. Работаю с API Telegram и Twitch.
 
 [Портфолио →](https://deco9er.fun)
 
