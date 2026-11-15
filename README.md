@@ -1,6 +1,6 @@
 ![DECO9ER на чёрном фоне со светящимися белыми линиями](assets/profile-banner.png)
 
-Пишу Telegram-ботов и инструменты автоматизации на Python. Работаю с API Telegram и Twitch.
+Пишу Telegram-ботов и инструменты автоматизации на Python. Работаю с API Telegram.
 
 [Портфолио →](https://deco9er.fun)
 
