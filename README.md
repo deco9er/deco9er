@@ -1,16 +1,16 @@
-## Hi there 👋
+![Тёмный баннер deco9er с мятной сигнальной волной](assets/profile-banner.jpg)
 
-<!--
-**deco9er/deco9er** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Пишу Telegram-ботов и инструменты автоматизации на Python. Работаю с API Telegram и Twitch, отслеживаю события и отправляю уведомления через ботов.
 
-Here are some ideas to get you started:
+[Портфолио →](https://deco9er.fun)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Проекты
+
+| Проект | Что делает |
+| --- | --- |
+| [NFT Gift Tracker](https://github.com/deco9er/nft-gift-tracker) | Следит за коллекционными подарками в Telegram Market, показывает новые лоты и изменения цен, управляет доступом к форуму через Crypto Pay. |
+| [Twitch Stream Tracker](https://github.com/deco9er/twich-tracker) | Присылает в Telegram уведомления о начале и завершении стримов на выбранных Twitch-каналах. |
+| [Predloshka](https://github.com/deco9er/Predloshka) | Принимает сообщения и медиа через Telegram и помогает администратору отвечать на обращения. |
+| [Sapper Bot](https://github.com/deco9er/Sapper-bot) | Распознаёт поле «Сапёра» и управляет игрой. Есть настольная версия и версия для VPS. |
+
+**Стек** · Python, aiogram, SQLite, SQLAlchemy, Selenium
